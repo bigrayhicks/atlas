@@ -1,0 +1,14 @@
+*.pyc
+*.DS_Store
+*.egg-info
+*.sqlite3
+
+.env
+settings.py
+
+build*
+
+test_settings.py
+.coverage
+
+node_modules
